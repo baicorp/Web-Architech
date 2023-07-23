@@ -1,4 +1,4 @@
-Web-Architech
+Web-Architect
 
 Proyek ini merupakan upaya saya dalam mengasah keterampilan desain responsif dengan pendekatan "mobile first" menggunakan Tailwind CSS dan integrasi React Router DOM. Tujuan dari proyek ini adalah untuk eksplorasi dan penerapan praktis desain responsif yang optimal pada berbagai perangkat, sambil memanfaatkan keunggulan navigasi multi-halaman yang ditawarkan oleh React Router DOM.
 
